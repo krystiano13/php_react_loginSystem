@@ -1,0 +1,6 @@
+How to use:
+
+- Install xampp
+- put repo files in htdocs (and create folder named "log" in it) in xampp directory
+- import log.sql to phpmyadmin
+- run apache server with xampp control panel

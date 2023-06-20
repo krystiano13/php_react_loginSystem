@@ -1,0 +1,28 @@
+.Login {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Login .form {
+  width: 40vh;
+  height: 52vh;
+  background-color: whitesmoke;
+  border-radius: 2vh;
+  padding: 2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.Login .register {
+  width: 45vh;
+  height: 62vh;
+}
+
+.chck {
+  margin-left: 1vh;
+}/*# sourceMappingURL=Login.css.map */

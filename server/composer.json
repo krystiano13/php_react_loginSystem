@@ -1,0 +1,15 @@
+{
+    "name": "krystian/server",
+    "authors": [
+        {
+            "name": "krystiano13",
+            "email": "crystianotv@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}
